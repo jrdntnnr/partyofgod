@@ -21,11 +21,11 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
-    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fadein 2s; /* Firefox < 16 */
-    -ms-animation: fadein 2s; /* Internet Explorer */
-    -o-animation: fadein 2s; /* Opera < 12.1 */
-    animation: fadein 2s;
+    -webkit-animation: fadein 3.5s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 3.5s; /* Firefox < 16 */
+    -ms-animation: fadein 3.5s; /* Internet Explorer */
+    -o-animation: fadein 3.5s; /* Opera < 12.1 */
+    animation: fadein 3.5s;
 }
 
 @keyframes fadein {
@@ -91,6 +91,7 @@ h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em
 a {
   color: inherit;
   text-decoration: none;
+  font-family: 'UnifrakturCook', cursive;
 }
 
 a:hover {
@@ -98,7 +99,7 @@ a:hover {
 }
 
 h1{
-      line-height: 90vh;
+      line-height: 80vh;
 	    font-weight: 700;
       text-shadow: 5px 5px 0px #ffff00,
                   10px 10px 0px #ffff00,
