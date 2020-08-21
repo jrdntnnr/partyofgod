@@ -13,6 +13,8 @@
    min-width: 100%;
    min-height: 100%;
    opacity: 0.2;
+   z-index: -1;
+   pointer-events: none;
  }
 
 input,
