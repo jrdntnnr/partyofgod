@@ -98,16 +98,40 @@ a:hover {
   text-decoration: underline;
 }
 
-h1{
-      line-height: 80vh;
-	    font-weight: 700;
-      text-shadow: 5px 5px 0px #ffff00,
-                  10px 10px 0px #ffff00,
-                  15px 15px 0px #ffff00,
-                  20px 20px 0px #ffff00,
-                  25px 25px 0px #ffff00,
-                  30px 30px 0px #ffff00,
-                  35px 35px 0px #ffff00,
-                  40px 40px 0px #ffff00,
-                  45px 45px 0px #ffff00;
-                }
+h1 {
+       	 color: #ff00ff;
+       	 text-shadow: 1px 1px 2px rgba(0,0,0,0.7),
+       	              5px 5px 1px #ffff00,
+       	              6px 6px 2px rgba(0,0,0,0.7),
+       	              10px 10px 1px #ffff00,
+       	              11px 11px 2px rgba(0,0,0,0.7),
+       	              15px 15px 1px #ffff00,
+       	              16px 16px 2px rgba(0,0,0,0.7);
+       	 -webkit-animation: text-snake 1s infinite alternate;
+       	 -moz-animation: text-snake 1s infinite alternate;
+       	 -ms-animation: text-snake 1s infinite alternate;
+       	 animation: text-snake 1s infinite alternate;
+       }
+
+       /* other prefixed animation blocks ommitted for brevity */
+
+       @keyframes text-snake {
+         from {
+         	text-shadow: 1px 1px 2px rgba(0,0,0,0),
+       	              5px 5px 1px #ffff00,
+       	              6px 6px 2px rgba(0,0,0,0),
+       	              10px 10px 1px #ffff00,
+       	              11px 11px 2px rgba(0,0,0,0),
+       	              15px 15px 1px #ffff00,
+       	              16px 16px 2px rgba(0,0,0,0);
+         }
+         to {
+         	text-shadow: -1px 1px 2px rgba(0,0,0,0),
+       	              -5px 5px 1px #f5f5f5,
+       	              -6px 6px 2px rgba(0,0,0,0),
+       	              -10px 10px 1px #f5f5f5,
+       	              -11px 11px 2px rgba(0,0,0,0),
+       	              -15px 15px 1px #f5f5f5,
+       	              -16px 16px 2px rgba(0,0,0,0);
+         }
+       } 
