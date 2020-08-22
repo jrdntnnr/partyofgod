@@ -6,7 +6,11 @@
  box-sizing: border-box !important;
  margin: 0; }
 
-
+ model-viewer {
+  position: fixed;
+  zindex: -1;
+  pointer-events: none;
+  }
 
 
 input,
