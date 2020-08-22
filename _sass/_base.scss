@@ -8,10 +8,10 @@
 
  model-viewer {
   width: auto;
-  height: 130px;
+  height: 120px;
   }
 
-    #divy {
+    #mydiv {
     position: absolute;
     z-index: 9;
     background-color: #f5f5f5;
@@ -21,7 +21,7 @@
     height: 150px;
     }
 
-    #divhead {
+    #mydivheader {
     cursor: url(https://hezbollah.ml/assets/pride-move.svg), pointer;
       z-index: 10;
       background-color: #f5f5f5;
