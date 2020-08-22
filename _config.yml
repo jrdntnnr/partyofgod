@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hezbollah
-description: حزب الله | Party of God Revolutionary Fashion Manifesto
+description: حزب الله | Party of God Progressive Wing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hezbollah.ml" # the base hostname & protocol for your site, e.g. http://example.com
 
