@@ -29,6 +29,16 @@
       color: #fff;
     }
 
+    .pinky {
+      mix-blend-mode: screen;
+        -webkit-filter: grayscale(100%) contrast(200%);
+      filter: grayscale(100%) contrast(200%);
+      opacity: 1;
+    }
+
+    #YT {     background: #ff00ff;}
+
+
 input,
 select,
 textarea,
