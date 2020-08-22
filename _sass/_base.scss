@@ -7,11 +7,8 @@
  margin: 0; }
 
  model-viewer {
-  position: fixed;
-  zindex: -1;
-  pointer-events: none;
-  width: unset;
-  height: 100px;
+  width: auto;
+  height: 120px;
   }
 
   #mydiv {
