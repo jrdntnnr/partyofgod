@@ -10,9 +10,24 @@
   position: fixed;
   zindex: -1;
   pointer-events: none;
-  height:100vh;
   }
 
+  #mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f5f5f5;
+    text-align: center;
+    border: 5px solid #ff00ff;
+  }
+
+  #mydivheader {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #f5f5f5;
+    border-bottom: 5px solid #ff00ff;
+    color: #fff;
+  }
 
 input,
 select,
