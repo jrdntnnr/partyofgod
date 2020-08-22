@@ -10,7 +10,8 @@
   position: fixed;
   zindex: -1;
   pointer-events: none;
-  width: fit-content;
+  width: unset;
+  height: 100px;
   }
 
   #mydiv {
