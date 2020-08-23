@@ -11,10 +11,25 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
-  {% seo %}
-
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hezbollah.ml/">
+  <meta property="og:title" content="Hezbollah | حزب الله Party of GodAllah™ - Progressive Wing">
+  <meta property="og:description" content="حزب الله Party of GodAllah™ - Progressive Wing">
+  <meta property="og:image" content="assets/og-image.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://hezbollah.ml/">
+  <meta property="twitter:title" content="Hezbollah | حزب الله Party of GodAllah™ - Progressive Wing">
+  <meta property="twitter:description" content="حزب الله Party of GodAllah™ - Progressive Wing">
+  <meta property="twitter:image" content="">
+
+
 
   {% assign user_url = site.url | append: site.baseurl %}
   {% assign full_base_url = user_url | default: site.github.url %}
