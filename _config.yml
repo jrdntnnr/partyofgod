@@ -1,17 +1,13 @@
+title: Hezbollah
 description: "حزب الله | Party of GodAllah™ - Progressive Wing"
+url: hezbollah.ml
+theme_color: white
+markdown: kramdown
 plugins:
   - jekyll-seo-tag
 social:
   description: "حزب الله | Party of GodAllah™ - Progressive Wing"
-  links:
-    - "https://twitter.com/jrdntnnr"
-    - "https://instagram.com/jrdntnnr"
-  name: "Jordan Tanner"
   og_description: "حزب الله | Party of GodAllah™ - Progressive Wing"
   og_image: /assets/og-image.png
   og_title: Hezbollah
   og_type: website
-  url: "https://hezbollah.ml"
-theme_color: white
-title: Hezbollah
-url: hezbollah.ml
