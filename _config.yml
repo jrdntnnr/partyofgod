@@ -5,8 +5,6 @@ url: "https://hezbollah.ml" # the base hostname & protocol for your site, e.g. h
 
 theme_color: white
 
-markdown: kramdown
-
 plugins: jekyll-seo-tag
 
   url: https://hezbollah.ml
