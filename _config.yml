@@ -5,7 +5,10 @@ url: "https://hezbollah.ml" # the base hostname & protocol for your site, e.g. h
 
 theme_color: white
 
-plugins: jekyll-seo-tag
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
 
   url: https://hezbollah.ml
   description: حزب الله | Party of GodAllah™ - Progressive Wing
