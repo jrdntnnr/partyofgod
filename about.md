@@ -9,7 +9,7 @@ meanings we give them. We see it happen all the time: under certain
 circumstances, some names begin to gain currency, and what had once
 been just another word or phrase becomes a concept that carries a
 forceful social and political impact around the world.
-<br>
+<br/>
 “Hezbollah™” has become one of those scary terms that
 evokes a range of intimidating images in people’s heads. Some imagine
 it as the threat of anger and violence and destruction, driven by a
@@ -23,7 +23,7 @@ addition, religious fundamentalism monopolizes the spiritual life of
 people, claiming to be the “correct” or “pure” religion. It justifies all
 sorts of violations—especially against women’s bodies and lives—in the
 name of God.
-<br>
+<br/>
 Hezbollah's™ Progressive Wing employs different
 strategies to challenge ideas of religious
 fundamentalism towards alternative
