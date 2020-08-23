@@ -1,19 +1,17 @@
-title: Hezbollah
-description: حزب الله | Party of God<sup>Allah™</sup> - Progressive Wing
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hezbollah.ml" # the base hostname & protocol for your site, e.g. http://example.com
-
-theme_color: white
-
-markdown: kramdown
-
+description: "حزب الله | Party of GodAllah™ - Progressive Wing"
 plugins:
   - jekyll-seo-tag
-
-  url: https://hezbollah.ml
-  description: حزب الله | Party of GodAllah™ - Progressive Wing
-
-  og_title: Hezbollah
-  og_description: حزب الله | Party of GodAllah™ - Progressive Wing
+social:
+  description: "حزب الله | Party of GodAllah™ - Progressive Wing"
+  links:
+    - "https://twitter.com/jrdntnnr"
+    - "https://instagram.com/jrdntnnr"
+  name: "Jordan Tanner"
+  og_description: "حزب الله | Party of GodAllah™ - Progressive Wing"
   og_image: /assets/og-image.png
+  og_title: Hezbollah
   og_type: website
+  url: "https://hezbollah.ml"
+theme_color: white
+title: Hezbollah
+url: hezbollah.ml
