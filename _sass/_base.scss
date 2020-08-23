@@ -26,6 +26,13 @@
     box-shadow: 10px 10px #ffff00;
     }
 
+    @media only screen and (max-width: 1000px) {
+  #draggable {
+    margin-left: 200px;
+    margin-top: -25px;
+  }
+}
+
     .pinky {
       mix-blend-mode: screen;
         -webkit-filter: grayscale(100%) contrast(200%);
