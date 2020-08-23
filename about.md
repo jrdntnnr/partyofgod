@@ -11,7 +11,6 @@ been just another word or phrase becomes a concept that carries a
 forceful social and political impact around the world.
 
 <br/>
-<br/>
 
 “Hezbollah™” has become one of those scary terms that
 evokes a range of intimidating images in people’s heads. Some imagine
@@ -27,7 +26,6 @@ people, claiming to be the “correct” or “pure” religion. It justifies al
 sorts of violations—especially against women’s bodies and lives—in the
 name of God.
 
-<br/>
 <br/>
 
 Hezbollah's™ Progressive Wing employs different
