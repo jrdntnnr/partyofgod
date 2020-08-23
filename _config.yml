@@ -7,8 +7,7 @@ theme_color: white
 
 markdown: kramdown
 
-plugins:
-  - jekyll-seo-tag
+plugins: jekyll-seo-tag
 
   url: https://hezbollah.ml
   description: حزب الله | Party of GodAllah™ - Progressive Wing
