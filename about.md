@@ -23,10 +23,10 @@ better reflect the reality of our lived experiences within the movement.
 
 <br/>
 
-Hezbollah™ means love, Hezbollah™ means peace, Hezbollah™ means freedom†.
+Hezbollah™ means love, Hezbollah™ means peace, Hezbollah™ means freedom<sup>†</sup>.
 Hezbollah's™ Progressive Wing employs different strategies to challenge ideas
 of normativity and normalization.
 
 <br/>
 
-<sup>†These definitions do not apply to Zionism or Zionists.</sup>
+<sup>†</sup>These definitions do not apply to Zionism or Zionists.
