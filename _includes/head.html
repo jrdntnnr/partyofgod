@@ -12,22 +12,22 @@
   <meta name="theme-color" content="#ffffff">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="Hezbollah™ means love, Hezbollah™ means peace, Hezbollah™ means freedom">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://hezbollah.ml/">
   <meta property="og:title" content="Hezbollah | حزب الله Party of GodAllah™ - Progressive Wing">
-  <meta property="og:description" content="Hezbollah™ means love, Hezbollah™ means peace, Hezbollah™ means freedom">
+  <meta property="og:description" content="حزب الله Party of GodAllah™ - Progressive Wing">
   <meta property="og:image" content="og-image.png">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="https://hezbollah.ml/">
   <meta property="twitter:title" content="Hezbollah | حزب الله Party of GodAllah™ - Progressive Wing">
-  <meta property="twitter:description" content="Hezbollah™ means love, Hezbollah™ means peace, Hezbollah™ means freedom>
-  <meta property="twitter:image" content="og-image.png">
+  <meta property="twitter:description" content="حزب الله Party of GodAllah™ - Progressive Wing">
+  <meta property="twitter:image" content="">
 
 
 
